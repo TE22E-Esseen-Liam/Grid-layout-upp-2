@@ -15,8 +15,6 @@ display: flex;
 justify-content: center;
 height: 75px;
 margin: auto;
-border: 2px solid black;
-border-radius: 6px;
 }
 
 .logo img{
@@ -47,15 +45,13 @@ aside{
 height: 860px;
 border: 2px solid black;
 grid-row: 2/5;
-background-image: url(Images/dragon_side.png);
+background-image: url(./dragon_side.png);
 border-radius: 6px;
 }
 
 .logo,
 aside{
 border: 2px solid black;
-
-
 }
 
 
